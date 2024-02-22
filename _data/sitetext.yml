@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Internet2 CLASS!
-    text: "CLASS aims to raise the Cloud IQ for institutions of research and education (R&E). Through hands-on experiential learning programs, incubators, and a growing community of practice we empower campuses to leverage cloud tools and technologies."
+    text: "CLASS offers hands-on experiential learning, incubators, and a growing community of practice to support workforce development within research and higher education (R&E)."
     button: View Upcoming Events
     buttonlink: "#calendar"
 
@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "[Learning Modules](/learningmodules)"
-        desc: "CLASS offers hands-on, learning experiences that democratize access to cloud computing."
+        desc: "CLASS offers hands-on, learning experiences that help higher education institutions explore ways to accelerate reresearch."
         icon: fas fa-book-reader #find more at https://fontawesome.com/icons
       - title: "[Incubators](/#incubator)"
         desc: "CLASS collaborates with various institutional partners to accelerate the adoption of cloud computing for research and higher education."
@@ -33,18 +33,18 @@ When you participate in any CLASS Learning module or Incubator program, you auto
         icon: fas fa-users-cog
 
   calendar:
-    title: "Upcoming Events (2024)"
+    title: "Upcoming Events"
     text: "   "
     section: calendar
     body: "| Date | Topic | Type | Presenter | Audience |
            
 | --- | --- | --- | --- | --- |
 
-| 03/11 - 05/17 | [GCP Professional Cloud Architect Certification](https://forms.gle/rVdScQvywSChixMD9) | Certification Prep | Kenny Moore | Enterprise IT
+| 03/11/24 - 04/17/24 | [GCP Professional Cloud Architect Certification](https://forms.gle/rVdScQvywSChixMD9) | Certification Prep (9 weeks) | Kenny Moore | Enterprise IT
 
-| 03/11 - 05/17 | [AWS Solutions Architect Associate Certification](https://forms.gle/SHX2e4eT1eJM3HoR6) | Certification Prep | Sharif Nijim | Enterprise IT
+| 03/11/24 - 04/17/24 | [AWS Solutions Architect Associate Certification](https://forms.gle/SHX2e4eT1eJM3HoR6) | Certification Prep (9 weeks) | Sharif Nijim | Enterprise IT
 
-| 04/29 - 05/10 | [Spring 2024 CLASS Advanced](https://internet2.edu/cloud/cloud-learning-and-skills-sessions/modules/class-advanced-cohort/)(Registration Opens end Feb.2024) | 2-week training | Various | IT/Research Support
+| 04/29/24 - 05/10/24|  [Spring 2024 CLASS Advanced](https://internet2.edu/cloud/cloud-learning-and-skills-sessions/modules/class-advanced-cohort/)(Registration Opens end Feb.2024) | 2-week training | Various | IT/Research Support
 
 
 
@@ -53,23 +53,17 @@ When you participate in any CLASS Learning module or Incubator program, you auto
 [Click here for Past Events](./pastevents)
 "
 
-  highlights:
-    title: "CLASS Program Elements"
-    text: "  "
-    section: highlights
-    list:
-      - title: "[Learning Modules](/learningmodules)"
-        desc: "CLASS offers hands-on, learning experiences that democratize access to cloud computing."
-        icon: fas fa-book-reader #find more at https://fontawesome.com/icons
-      - title: "[Incubators](/#incubator)"
-        desc: "CLASS collaborates with various institutional partners to accelerate the adoption of cloud computing for research and higher education."
-        icon: fas fa-seedling
-      - title: "[CLASS Community](/#calendar)"
-        desc: "CLASS aims to build a robust R&E community ready to move cloud forward!
-When you participate in any CLASS Learning module or Incubator program, you automatically become part of the CLASS community."
-        icon: fas fa-users-cog
+  incubator: 
+    title: "Incubator Programs"
+    text: "   "
+    section: incubator
+    body: " In October 2022, Internet2 CLASS and Microsoft Azure launched the inaugural [Azure Accelerator for Research Program](https://internet2.edu/advance-your-transition-to-the-cloud-with-the-azure-accelerator-program-for-research/). Four projects were selected to receive up to $5000 in credits, access to hands-on Azure workshops, and technical help from Azure solutions architects. Find out more about the projects [here](https://internet2.edu/internet2-microsoft-azure-accelerator-2022-researchers-in-action/) or on [Github](https://github.com/I2AzureAccelerator).
+
+You can watch the final presentation [here](https://1drv.ms/v/s!Aieq2df-_LRVgRXUrZRmh2JlIL2N?e=BWycSt).  
 <br />
-<br /> 
+<br />
+**[Sign up for the CLASS Mailing List](https://lists.internet2.edu/sympa/info/class-announce) to be the first to hear about the next CLASS Incubator Program!** 
+" 
 
   pastevents:
     title: "Past Events"

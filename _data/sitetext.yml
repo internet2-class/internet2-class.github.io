@@ -57,17 +57,7 @@ When you participate in any CLASS Learning module or Incubator program, you auto
     title: "Class Highlights"
     text: "   "
     section: incubator
-    list:
-      - title: "[Learning Modules](/learningmodules)"
-        desc: "CLASS offers hands-on, learning experiences that democratize access to cloud computing."
-        icon: fas fa-book-reader #find more at https://fontawesome.com/icons
-      - title: "[Incubators](/#incubator)"
-        desc: "CLASS collaborates with various institutional partners to accelerate the adoption of cloud computing for research and higher education."
-        icon: fas fa-seedling
-      - title: "[CLASS Community](/#calendar)"
-        desc: "CLASS aims to build a robust R&E community ready to move cloud forward!
-When you participate in any CLASS Learning module or Incubator program, you automatically become part of the CLASS community."
-        icon: fas fa-users-cog
+    description: "test"
 
 <br />
 <br /> 

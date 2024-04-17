@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Internet2 CLASS!
-    text: "CLASS offers hands-on experiential learning, incubators, and a growing community of practice to support workforce development within research and higher education (R&E)."
+    title: Be the Future.
+    text: "CLASS is a learning experience built to help institutions and researchers navigate the complex, changing landscape of higher education technology."
     button: View Upcoming Events
     buttonlink: "#calendar"
 
   services:
-    title: "CLASS Program Elements"
+    title: " "
     text: "  "
     section: services
     list:

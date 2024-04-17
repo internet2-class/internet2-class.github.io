@@ -1,6 +1,6 @@
 // Styling for the masthead
 header.masthead {
-  text-align: center;
+  text-align: left;
   color: $black;
   background-image: url("#{$header-image}");
   background-repeat: no-repeat;
@@ -10,19 +10,20 @@ header.masthead {
   .intro-text {
     padding-top: 180px;
     padding-bottom: 70px;
+    padding-right: 600px;
     .intro-lead-in {
       font-color: white;
-      font-size: 34px;
+      font-size: 20px;
       font-weight: bold;
-      line-height: 34px;
+      line-height: 16px;
       margin-bottom: 25px;
       @include serif-font;
     }
     .intro-heading {
       font-color: white;
-      font-size: 30px;
+      font-size: 18px;
       font-weight: normal;
-      line-height: 30px;
+      line-height: 10px;
       margin-bottom: 25px;
       @include serif-font;
     }
@@ -33,17 +34,18 @@ header.masthead {
     .intro-text {
       padding-top: 180px;
       padding-bottom: 70px;
+      padding-right: 600px;
       .intro-lead-in {
-        font-size: 34px;
+        font-size: 20px;
         font-weight: bold;
-        line-height: 34px;
+        line-height: 16px;
         margin-bottom: 25px;
         @include serif-font;
       }
       .intro-heading {
-        font-size: 30px;
+        font-size: 18px;
         font-weight: normal;
-        line-height: 30px;
+        line-height: 10px;
         margin-bottom: 25px;
         @include serif-font;
       }

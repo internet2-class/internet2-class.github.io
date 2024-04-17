@@ -21,13 +21,13 @@ en: &DEFAULT_EN
     text: "  "
     section: services
     list:
-      - title: "[Learning Modules](/learningmodules)"
-        desc: "CLASS offers hands-on, learning experiences that help higher education institutions explore ways to accelerate reresearch."
+      - title: "[LEARN](/learningmodules)"
+        desc: "CLASS offers hands-on, learning experiences that help deepend your technical computing skills - from Cloud Computing to AI tools to Scientific Software Programming."
         icon: fas fa-book-reader #find more at https://fontawesome.com/icons
-      - title: "[Incubators](/#incubator)"
-        desc: "CLASS collaborates with various institutional partners to accelerate the adoption of cloud computing for research and higher education."
+      - title: "[ENGAGE](/#incubator)"
+        desc: "CLASS brings together various institutional partners to accelerate the adoption of cloud computing for research and higher education."
         icon: fas fa-seedling
-      - title: "[CLASS Community](/#calendar)"
+      - title: "[COLLABORATE](/#calendar)"
         desc: "CLASS aims to build a robust R&E community ready to move cloud forward!
 When you participate in any CLASS Learning module or Incubator program, you automatically become part of the CLASS community."
         icon: fas fa-users-cog
@@ -45,6 +45,14 @@ When you participate in any CLASS Learning module or Incubator program, you auto
 | March 11 - May 17 | [AWS Solutions Architect Associate Certification](https://forms.gle/SHX2e4eT1eJM3HoR6) | Certification Prep | Sharif Nijim | Enterprise IT
 
 | April 29 - May 10 |  [Spring 2024 CLASS Advanced](https://internet2.edu/cloud/cloud-learning-and-skills-sessions/modules/class-advanced-cohort/)| Training/Projects | Various | IT/Research Support
+
+| May 6 |  [Adaptive Computing At Scale](https://internet2.zoom.us/webinar/register/WN__I0veWYGSNmQbhxY096bNA)| Webinar | Boyd Wilson, Omnibond | Research
+
+| May 7 |  [A Practical Guide to Cloud Security on AWS](https://internet2.zoom.us/webinar/register/WN_VFX0t-qnQE6Ge6G0S4ytjQ) | Webinar | James Smith, Notre Dame | Campus IT/Research 
+
+| May 8 |  [AI Governance and Regulation in Higher Education](https://internet2.zoom.us/webinar/register/WN_Y5yA22p2Qzu4t_g35B0UmQ)| Webinar | Brandon Rich, Notre Dame | Campus IT/Research Support
+
+| May 9 |  [Introduction to Jetstream: Accessible cloud computing for the national science and engineering communities](https://internet2.zoom.us/webinar/register/WN_i8evoY7FT5eYPvtqiHlRUQ)| Webinar | TBD/Indiana University | Research
 
 
 

@@ -31,10 +31,37 @@ td {
 <div class="container">  
 <img src="./assets/img/poly_network.jpg" alt="Snow" style="width:100%;">
   <div class="top-left"><h4 class="subheading" align="left">From incubators, accelerators, and technical consulting to community-driven research projects, CLASS drives innovation through collaboration.</h4></div>
+
+<br/>
+<br/>
+<br/>
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="..." alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
-<br/>
-<br/>
-<br/>
 
  <table style="width:100%">
   <tr>
@@ -53,4 +80,4 @@ td {
     <td>CLASS supports open-source scientific discovery. We use <a href="https://github.com/search?q=org%3AInternet2+%2Fclass&type=repositories">Github</a> to share products from our learning programs. </td>
   </tr>
 </table> 
-
+</div>

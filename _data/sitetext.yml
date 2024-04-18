@@ -31,6 +31,14 @@ en: &DEFAULT_EN
         desc: "CLASS builds on Internet2's network of experts and members to build a robust community ready to face the challenges of changing technical landscape."
         icon: fas fa-users-cog
 
+  carousels:
+    - images: 
+      - image: /assets/img/header.jpeg
+      - image: /assets/img/header.jpeg
+      - image: /assets/img/header.jpeg
+      - image: /assets/img/header.jpeg
+
+
   timeline:
     title: "Why Choose CLASS?"
     # left is the default

@@ -1,0 +1,94 @@
+<!-- News -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+  <section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].news.section | default: "news" }}">
+<style type="text/css">
+.ticker {
+width: 100%;
+#background-color: #84bdc7;
+height: 275px;
+padding-right: 125px;
+padding-left: 125px;
+padding-top: 30px;
+padding-bottom: 30px;}
+
+.newsheader {
+font-size: 20px;
+font-weight: bold;
+font-margin-bottom: 30px;
+text-transform: none;
+ @include heading-font;}
+
+.carousel-indicators li {
+  background-color: #007474;
+  background-color: rgba(70, 70, 70, 0.25);
+}
+
+.carousel-indicators .active {
+  background-color: #007474;
+}
+
+
+.carousel-icon:link,
+.carousel-icon:visited,
+.carousel-icon:active, {
+  /* color: red; */
+  /* background-color: red; */
+  background-color: #007474;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 40px;
+  width: 40px;
+  outline: black;
+  background-size: 60%, 60%;
+  border-radius: 50%;
+  background-color: #007474;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    overflow: hidden;
+    opacity: .75!important;
+        
+}
+
+</style>
+
+    <div class="container">
+<div class="col-lg-12 text-center">
+<h2 class="section-heading text-uppercase">What's New in CLASS</h2>
+</div>
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active" data-mdb-interval="7000">
+    <div class="ticker text-center"><h4 class="newsheader">CLASS Advanced begins on April 29.</h4>
+There's still time to sign up to join other research computing facilitators to level up your cloud and research skills. 
+<br/><br/><br/><a class="btn btn-outline-info btn-lg" href="https://internet2.edu/cloud/cloud-learning-and-skills-sessions/modules/class-advanced-cohort/schedule-for-class-advanced-cohort/" role="button">Learn More</a>
+
+    </div></div>
+    <div class="carousel-item" data-mdb-interval="7000">
+    <div class="ticker text-center"><h4 class="newsheader">Cloud Discovery Week May 6 - May 10</h4>
+As part of the upcoming Spring 2024 Cohort of CLASS Advanced, Internet2 is convening a series of hour-long webinars on current and emerging cloud topics relevant to the research and higher education community. <br/><br/><br/><a class="btn btn-outline-info btn-lg" href="#" role="button">Learn More</a>
+
+	</div></div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>	 
+
+ 
+    </div>
+  </section>
+{% endif %}  
+<!-- End News -->

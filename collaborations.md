@@ -48,9 +48,9 @@ td {
     <td><h4 class="subheading text-muted">Community Projects</h4></td>
   </tr>
   <tr>
-    <td>If you have technical questions on research computing, CLASS is here to help! We offer technical consultation to help move your research projects forward. Our team of Cloud and Computing SMEs can help develop architecture, brainstorm efficient coding solutions, find the right cyberinfrastructure workflows, and pave the way for understanding your data. Reach out to us today to see how CLASS can address your challenges. </td>
-    <td>Click here to learn more about our collaboration with Microsoft Azure on the CLASS Accelerator for AI and Machine Learning. </td>
-    <td>CLASS utilizes an open-source philosophy</td>
+    <td>If you have technical questions on research computing, CLASS is here to help. We offer technical consultation to help move your research projects forward. Our team of Cloud and Computing SMEs can assist in developing architecture, brainstorm efficient coding solutions, help find the right cyberinfrastructure workflows, and pave the way for understanding large datasets. <a href="mailto:class@internet2.edu">Reach out to us today</a> to see how CLASS can help resolve your challenges. </td>
+    <td>Our partnerships produce meaningful and successful outcomes. <a href="https://internet2.edu/internet2-microsoft-azure-accelerator-2022-researchers-in-action/">Learn more about our recent collaboration with Microsoft Azure on the CLASS Accelerator for AI and Machine Learning</a>. </td>
+    <td>CLASS supports open-source scientific discovery. We use <a href="https://github.com/search?q=org%3AInternet2+%2Fclass&type=repositories">Github</a> to share products from our learning programs. </td>
   </tr>
 </table> 
 

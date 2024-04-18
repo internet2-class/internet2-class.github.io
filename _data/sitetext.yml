@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "[LEARN](/learningmodules)"
-        desc: "CLASS offers immersive learning experiences to deepen your technical computing skills - from Cloud Computing to AI tools to Scientific Software Programming."
+        desc: "CLASS offers immersive learning experiences to deepen your technical computing skills - from Cloud Computing to AI tools to Scientific Software Programming. We help researchers because we *are* researchers."
         icon: fas fa-book-reader #find more at https://fontawesome.com/icons
       - title: "[COLLABORATE](/collaborations)"
         desc: "CLASS brings together various institutional and industry partners to accelerate the pace of scientific discovery. By facilitating meaningful partnerships, CLASS makes learning and knowledge sharing sustainable. "

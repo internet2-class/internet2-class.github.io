@@ -7,7 +7,6 @@ background: white
 <style>
 .container {
   position: relative;
-  text-align: center;
   color: black;
 }
 

@@ -6,7 +6,6 @@ background: white
 <style>
 .container {
   position: relative;
-  text-align: center;
   color: black;
 }
 
@@ -23,9 +22,10 @@ background: white
 
 <div class="container">  
 <img src="./assets/img/poly_network.jpg" alt="Snow" style="width:100%;">
-  <div class="top-left"><h4 class="subheading">CLASS consists of a series of “learning and skills sessions” for foundational to advanced learners.</h4></div>
+  <div class="top-left"><h4 class="subheading" align="left">CLASS consists of a series of “learning and skills sessions” for foundational to advanced learners.</h4></div>
 </div>
 <br/>
+
 
 <p align="center"><a class="btn btn-outline-primary btn-xl" href="events" role="button">Upcoming Learning Events</a></p>
 <br/>

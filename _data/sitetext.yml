@@ -101,7 +101,7 @@ en: &DEFAULT_EN
           - url: https://github.com/
             icon: fab fa-github
       - name: "Tim Manik"
-        role: "Cloud Solutions Specialist"
+        role: "Cloud Solutions Architect"
         image: assets/img/team/tim.jpg
         social:
           - url: https://github.com/timmanik

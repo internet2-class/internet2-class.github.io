@@ -27,7 +27,7 @@ background: white
 <br/>
 
 
-<p align="center"><a class="btn btn-outline-primary btn-xl" href="events" role="button">Upcoming Learning Events</a></p>
+<p align="center"><a class="btn btn-outline-info btn-xl" href="events" role="button">Upcoming Learning Events</a></p>
 <br/>
 <br/>
 

@@ -11,12 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Program"
-      section: services
     - title: "Events"
       url: /events
-    - title: "Resources"
-      url: /resources.html
+    - title: "Learn"
+      url: /learningmodules
+    - title: "Collaborate"
+      url: /collaborations
+    - title: "Engage"
+      url: /events
     - title: "Contact"
       section: contact
     - title: "Internet2"

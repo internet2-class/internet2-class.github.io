@@ -36,8 +36,6 @@ td {
 <br/>
 <br/>
 
-</div>
-
  <table style="width:100%">
   <tr>
     <td><i class="fas fa-laptop-code" style="font-size:72px;color:#007474;"></i></td>

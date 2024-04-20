@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "CLASS brings together various institutional and industry partners to accelerate the pace of scientific discovery. By facilitating meaningful partnerships, CLASS makes learning and knowledge sharing sustainable. "
         icon: fas fa-seedling
       - title: "[ENGAGE](/#calendar)"
-        desc: "CLASS builds on Internet2's network of experts and members to build a robust community ready to face the challenges of changing technical landscape."
+        desc: "CLASS builds on Internet2's network of experts and members to build a robust workforce and advanced cyberinfrastructure community capable of addressing higher education's most pressing technical needs."
         icon: fas fa-users-cog
 
   carousels:

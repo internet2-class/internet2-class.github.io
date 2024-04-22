@@ -1,6 +1,13 @@
 ---
 layout: home
 ---
+<meta property="og:title" content="Internet2 CLASS"/>
+<meta property="og:image" content="/assets/img/CLASS-logo.png"/>
+<meta property="og:description" content="3 words describe your website"/>
+<meta property="og:url" content="https://internet2-class.github.io"/>
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="627"/>
+<meta property="og:type" content="website"/> 
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PZT5M30K7C"></script>

@@ -2,8 +2,8 @@
 layout: home
 ---
 <meta property="og:title" content="Internet2 CLASS"/>
-<meta property="og:image" content="/assets/img/CLASS-logo.png"/>
-<meta property="og:description" content="3 words describe your website"/>
+<meta property="og:image" content="/assets/img/SEO-CLASS-Image.png"/>
+<meta property="og:description" content="Workforce Development Research"/>
 <meta property="og:url" content="https://internet2-class.github.io"/>
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="627"/>

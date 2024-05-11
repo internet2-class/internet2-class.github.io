@@ -18,9 +18,7 @@ en: &DEFAULT_EN
     - title: "Collaborate"
       url: /collaborations
     - title: "Engage"
-      url: /events
-    - title: "Contact"
-      section: contact
+      url: /engage
     - title: "Internet2"
       url: http://internet2.edu/CLASS
 en-US:

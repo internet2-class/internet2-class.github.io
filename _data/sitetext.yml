@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "[COLLABORATE](/collaborations)"
         desc: "CLASS brings together various institutional and industry partners to accelerate the pace of scientific discovery. By facilitating meaningful partnerships, CLASS makes learning and knowledge sharing sustainable. "
         icon: fas fa-seedling
-      - title: "[ENGAGE](/#calendar)"
+      - title: "[ENGAGE](/engage)"
         desc: "CLASS builds on Internet2's network of experts and members to develop a robust advanced cyberinfrastructure workforce capable of addressing higher education's most pressing technical needs."
         icon: fas fa-users-cog
 
@@ -134,4 +134,3 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
